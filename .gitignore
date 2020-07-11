@@ -1,2 +1,6 @@
 /node_modules
 .env
+
+##Se o .env for, execute isso
+##git rm .env --cached
+##git commit -m "Stopped tracking .env File"
